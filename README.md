@@ -1,5 +1,9 @@
 # orange-talents-07-dojao-projeto-completo
 
+- [Conta Digital - Tarefas](https://github.com/yurioliveirazup/conta-digital-tarefas)
+
+## Serviços
+
 - [Conta Digital](https://github.com/fernandosaraivazup/orange-talents-07-dojao-conta-digital)
 
 ## Resumo reuniões daily
