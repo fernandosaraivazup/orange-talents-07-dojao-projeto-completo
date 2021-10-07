@@ -6,6 +6,7 @@
 
 - [Conta Digital](https://github.com/fernandosaraivazup/orange-talents-07-dojao-conta-digital)
 - [Orquestrador](https://github.com/fernandosaraivazup/orange-talents-07-dojao-orquestrador)
+- [Recarga de celular](https://github.com/jeffersonzup/orange-talents-07-dojao-recarga-celular)
 
 ## Resumo reuniões daily
 
